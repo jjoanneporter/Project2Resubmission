@@ -93,30 +93,6 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   }
   
-  @media (min-width: 320px) {
-    .index-page {
-      font-size: 0.9rem;
-      padding: 1rem;
-    }
-  
-    .index-page nav {
-      flex-direction: column;
-      align-items: center;
-    }
-  
-    .index-page nav ul {
-      flex-direction: column;
-      align-items: center;
-    }
-  
-    .index-page nav li {
-      margin: 0.5rem 0;
-    }
-  
-    .index-page .nav-logo {
-      height: 15px;
-    }
-  }
   
   @media (min-width: 768px) {
     .index-page {
